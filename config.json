@@ -10,6 +10,5 @@
   "css": "./custom.css",
   "usage-stats": false,
   "home-album-name": "Beruti 4500",
-  "footer": "./footer.html",
-  "index": "./footer.html"
+  "footer": "./footer.html"
 }
