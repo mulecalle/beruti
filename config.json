@@ -9,6 +9,5 @@
   "theme": "cards",
   "css": "./custom.css",
   "usage-stats": false,
-  "home-album-name": "Beruti 4500",
-  "footer": "footer.html"
+  "home-album-name": "Beruti 4500"
 }
