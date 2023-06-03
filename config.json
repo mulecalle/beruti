@@ -10,5 +10,5 @@
   "css": "./custom.css",
   "usage-stats": false,
   "home-album-name": "Beruti 4500",
-  "footer": "<footer><h1>Description</h1><ul><li>Living comedor con amplios ventanales.</li><li>Aire acondicionado split.</li><li>Toilette.</li><li>Salida a balcón.</li><li>Cocina integrada con muebles de alacena y bajomesada.</li><li>Anafe de 2 hornallas y horno eléctricos.</li><li>Dormitorio con amplio placard de puertas espejadas.</li><li>Baño completo en suite.</li><li>Apto profesional.</li></ul></footer>"
+  "footer": "<h1>Description</h1><ul><li>Living comedor con amplios ventanales.</li><li>Aire acondicionado split.</li><li>Toilette.</li><li>Salida a balcón.</li><li>Cocina integrada con muebles de alacena y bajomesada.</li><li>Anafe de 2 hornallas y horno eléctricos.</li><li>Dormitorio con amplio placard de puertas espejadas.</li><li>Baño completo en suite.</li><li>Apto profesional.</li></ul>"
 }
