@@ -8,6 +8,8 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
-  "usage-stats": false
+  "usage-stats": false,
+  "home-album-name": "Beruti 4500",
+  "footer": "./footer.html",
+  "index": "./footer.html"
 }
