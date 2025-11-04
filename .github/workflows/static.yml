@@ -23,7 +23,7 @@ jobs:
       - name: Build Gallery 🔧
         run: docker run -v "$(pwd):/work" ghcr.io/thumbsup/thumbsup /bin/sh -c "cd /work/ && thumbsup --config config.json"
       - name: Package and upload artifact 📦
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v1.0.7
         with:
           path: 'build_output'
           name: gh-pages
@@ -32,7 +32,3 @@ jobs:
         with:
           artifact_name: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Delete artifact 🗑️
-        uses: geekyeggo/delete-artifact@v5
-        with:
-          name: gh-pages
